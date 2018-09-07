@@ -1,3 +1,3 @@
-My Portfolio
+I learned that HTML5 is the newest version of HTML. It also has more technology. Audio and video can be embedded, more elements, and forms improvement. Firefox has very good support for HTML5. I wonder what happens if the browser doesn't support the new features of HTML 5. Do developers need to code a backup plan if the users are opening their website in different browsers?
 
-A showcase of my work at Bloc.
+I learn that Material Design has very specific rules of shadow, structure, spacing, color, and etc. Material Design is guided by print design methods. It can be implemented with customer code, plug-ins, and design elements. Question Can designers come up with creative designs with all of these rules? Do all android apps look very similar?
